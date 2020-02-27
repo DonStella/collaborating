@@ -1,4 +1,9 @@
 # collaborating
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+ ###### ![test image size](khachapuri.jpg)
 #  Khachapuri – Georgian Cheese Bread
 
 # How to make khachapuri
